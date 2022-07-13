@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(212, 45%, 89%) !important;
+    font-family: Outfit !important;
+}
+
+.container-sm {
+    margin: 150px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 340px !important;
+}
+
+#qrcode {
+    border-radius: 10px;
+}
+
+.main-heading {
+
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 23px;
+    padding: 25px 23px 0px 23px;
+}
+
+.paragraph {
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 0px 23px 10px 23px;
+    color: hsl(220, 15%, 55%);
+
+}
